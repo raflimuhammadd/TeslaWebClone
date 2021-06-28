@@ -41,7 +41,7 @@ function Home() {
                  rightBtnText="Learn More"
             />
             <Section 
-                 title="Splar for New Roofs"
+                 title="Solar for New Roofs"
                  description="Solar Roof Cost less Than a New Roof Plus Solar Panels"
                  backgroundImg="solar-roof.jpg"
                  leftBtnText="Order Now"
